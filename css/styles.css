@@ -468,7 +468,7 @@ footer .footer-logo-link {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
- background-color: #4d5ae5;
+  color: #4d5ae5;
   display: inline-block;
   margin-bottom: 16px;
 }
